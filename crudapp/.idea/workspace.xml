@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf6148a0-dd2d-44e3-8225-bc5d2235dc47" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1RT1UL1sOtQ7ghfMeImTrtvKVET" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ShopingCart" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="crudapp" type="Python.DjangoServer" factoryName="Django server">
+      <module name="crudapp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf6148a0-dd2d-44e3-8225-bc5d2235dc47" name="Default Changelist" comment="" />
+      <created>1569676287067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569676287067</updated>
+      <workItem from="1569676289501" duration="16407000" />
+      <workItem from="1569751720977" duration="11095000" />
+      <workItem from="1569900182877" duration="11430000" />
+      <workItem from="1570021442030" duration="14571000" />
+      <workItem from="1570159878764" duration="1028000" />
+      <workItem from="1570259281246" duration="1161000" />
+      <workItem from="1570270097119" duration="1732000" />
+      <workItem from="1570271860616" duration="1872000" />
+      <workItem from="1570275867738" duration="1878000" />
+      <workItem from="1570278115536" duration="23372000" />
+      <workItem from="1570363130990" duration="9722000" />
+      <workItem from="1570443915617" duration="11386000" />
+      <workItem from="1570513873585" duration="17430000" />
+      <workItem from="1570864550343" duration="5502000" />
+      <workItem from="1570890926645" duration="842000" />
+      <workItem from="1570898901282" duration="850000" />
+      <workItem from="1570902308246" duration="193000" />
+      <workItem from="1570939015931" duration="14000" />
+      <workItem from="1571246092662" duration="4000" />
+      <workItem from="1571310069357" duration="1002000" />
+      <workItem from="1571803666996" duration="614000" />
+      <workItem from="1571845827085" duration="1000" />
+      <workItem from="1571846470987" duration="1000" />
+      <workItem from="1571848509975" duration="1787000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
